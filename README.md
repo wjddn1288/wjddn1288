@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wjddn7728@gmail.com
 - 😄 Pronouns: Jeong Woo
 - ⚡ Fun fact: I'm passionate person / Go-getter
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
