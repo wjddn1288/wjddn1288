@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on SpringBoot Online Store (Yusinsa)
+- 🔭 I’m currently studying on SpringBoot Online Store (Yusinsa)
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate Employment 
 - 🤔 I’m looking for help with Spring
